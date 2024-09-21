@@ -1,0 +1,15 @@
+1. https://www.sciencedirect.com/journal/blockchain-research-and-applications
+2. https://www.researchgate.net/search?q=blockchain
+3. https://www.researchgate.net/publication/381666548_Blockchain_for_Academic_Integrity_Developing_the_Blockchain_Academic_Credential_Interoperability_Protocol_BACIP (смежная тема, но нужно делать заброс на доступ к исследованию)
+4. https://blockchain.ieee.org/publications (не уверен в полезности)
+5. https://blockchain.ubc.ca/research/research-papers (большинство исследований за платежной стеной, но возможно получится найти что-то с открытым доступом)
+6. https://arxiv.org/pdf/2306.14802 (расписанный принцип работы блокчейн, думаю будет очень даже полезно)
+7. https://habr.com/ru/companies/bitfury/articles/344602/ (не рецензируемое издание, но в нем содержатся ссылки на книги и исследования, так что решил вставить)
+8. https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD (тоже имеется полезная информация)
+9. https://arxiv.org/ (!!!! ресуср с открытым доступом к множеству научных исследований. Цитат с сайта: "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv.")
+10. https://core.ac.uk/ (агригатор для поиска исследований с открытым доступом)
+
+
+Блокче́йн (англ. blockchain[1], изначально block chain[2] — цепь из блоков) — выстроенная по определённым правилам непрерывная последовательная цепочка блоков (связный список), содержащих какую-либо информацию.
+
+В теории можно пользоваться термином "цепочка блоков/децентрализованная цепочка блоков", так как изначально название было практическое и описывало некую архитектуру данной технологии.
